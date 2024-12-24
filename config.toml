@@ -3,7 +3,7 @@ title = "Archive of Gladz"
 description = "welcome moongangers, behave or i'll punch your face"
 theme = "shadharon"
 
-generate_feed = true
+# generate_feed = true
 compile_sass = true
 minify_html = true
 build_search_index = true
