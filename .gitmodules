@@ -1,1 +1,4 @@
 
+[submodule "themes/shadharon"]
+	path = themes/shadharon
+	url = https://github.com/moongangers/shadharon.git
