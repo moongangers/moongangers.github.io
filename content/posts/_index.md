@@ -1,9 +1,9 @@
 +++
 paginate_by = 7
 path = "posts"
-title = "quotes"
+title = "Quotes"
 sort_by = "date"
 
 [extra]
-desc = {title = "Welcome Moongangers!", img = "/images/titaging.jpg", text="behave or i'll punch your face"}
+desc = {title = "OI PSST!", img = "/images/titaging.jpg", text = "behave or i'll punch your face"}
 +++

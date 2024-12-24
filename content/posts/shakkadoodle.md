@@ -1,9 +1,9 @@
 +++
-title = "shakkadoodle"
-date = "2015-01-01"
+title = "Shakkadoodle"
+date = "2024-12-23"
 [taxonomies]
-tags = ["SHAKKA"]
+tags = ["invention"]
 +++
 
-> Shakkadoodle! Shalasure!
-- Tita Ging
+> Shakkadoodle krink! For Shalla Shalla!
+- Gladz
