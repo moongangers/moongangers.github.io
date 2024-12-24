@@ -6,5 +6,4 @@ tags = ["invention"]
 +++
 
 > Did you see on pacebook? It's COOCOO-KACHOO! SHALLA SHORE!
-- :o
 

@@ -6,4 +6,4 @@ tags = ["invention"]
 +++
 
 > You spilled coffee on my rug??? FATA!!!
-- Angry Gladz
+

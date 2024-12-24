@@ -6,8 +6,11 @@ tags = ["table of contents"]
 +++
 
 ---
-* [shakkadoodle](http://127.0.0.1:1111/posts/shakkadoodle.md)
+* [shakkadoodle](http://127.0.0.1:1111/posts/shakkadoodle/)
 
-* [FATA!](http://127.0.0.1:1111/posts/fata.md)
+* [FATA!](http://127.0.0.1:1111/posts/fata/)
 
-* [blahck bahstore](http://127.0.0.1:1111/posts/blockbuster.md)
+* [blahck bahstore](http://127.0.0.1:1111/posts/blockbuster/)
+
+* [COO-COO-KACHOO!](http://127.0.0.1:1111/posts/coocookachoo/)
+

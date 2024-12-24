@@ -6,4 +6,3 @@ tags = ["accent"]
 +++
 
 > WHY DO YOU WANT TO GO TO BLAHCK BAHSTORE?
-- Gladz
