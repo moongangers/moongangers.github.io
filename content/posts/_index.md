@@ -5,5 +5,5 @@ title = "Quotes"
 sort_by = "date"
 
 [extra]
-desc = {title = "OI PSST!", img = "/images/titaging.jpg", text = "behave or i'll punch your face"}
+desc = {title = "HOI PSST!", img = "/images/titaging.jpg", text = "behave or i'll punch your face"}
 +++
