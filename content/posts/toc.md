@@ -1,6 +1,8 @@
 +++
 title = "toc"
 date = "2000-01-01"
+[taxonomies]
+tags = ["table of contents"]
 +++
 
 ---
