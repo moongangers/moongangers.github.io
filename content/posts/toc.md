@@ -6,11 +6,11 @@ tags = ["table of contents"]
 +++
 
 ---
-* [shakkadoodle](http://127.0.0.1:1111/posts/shakkadoodle/)
+* [shakkadoodle](https://moongangers.github.io/posts/shakkadoodle/)
 
-* [FATA!](http://127.0.0.1:1111/posts/fata/)
+* [FATA!](https://moongangers.github.io/posts/fata/)
 
-* [blahck bahstore](http://127.0.0.1:1111/posts/blockbuster/)
+* [blahck bahstore](https://moongangers.github.io/posts/blockbuster/)
 
-* [COO-COO-KACHOO!](http://127.0.0.1:1111/posts/coocookachoo/)
+* [COO-COO-KACHOO!](https://moongangers.github.io/posts/coocookachoo/)
 
