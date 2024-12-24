@@ -1,6 +1,6 @@
 +++
 paginate_by = 7
-path = "posts"
+# path = "posts"
 title = "Quotes"
 sort_by = "date"
 
