@@ -1,5 +1,5 @@
 base_url = "https://moongangers.github.io"
-title = "Archive of Gladz"
+title = "Archive of Hawaii Palz"
 description = "welcome moongangers, behave or i'll punch your face"
 theme = "shadharon"
 
@@ -32,7 +32,3 @@ menu = [
     { name = "list", url = "/posts/toc/"},
 ]
 
-# #The icons available can be found in "social_icons" in the "static" folder
-# socials = [
-#     { name = "github", url = "https://github.com/syedzayyan/", icon = "github" },
-# ]
