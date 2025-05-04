@@ -29,6 +29,6 @@ headerImage = "/images/tsinela.jpg"
 
 # The icon is display besides the menu text but is not necessary. It needs to be placed under "menu_icon" in the static "folder"
 menu = [
-    { name = "list", url = "/posts/toc/"},
+    { name = "Table of Contents", url = "/posts/toc/"},
 ]
 

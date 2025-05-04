@@ -1,28 +1,62 @@
 +++
-title = "toc"
+title = "a. Table of Contents"
 date = "2000-01-01"
 +++
 
 ---
-* [shakkadoodle](https://moongangers.github.io/posts/shakkadoodle/)
 
-* [FATA!](https://moongangers.github.io/posts/fata/)
+Tita Ging
 
 * [blahck bahstore](https://moongangers.github.io/posts/blockbuster/)
 
 * [COO-COO-KACHOO!](https://moongangers.github.io/posts/coocookachoo/)
 
+* [FATA!](https://moongangers.github.io/posts/fata/)
+
+* [Jurassic Snore](https://moongangers.github.io/posts/jurassicsnore/)
+
 * [MEEYAMI](https://moongangers.github.io/posts/miami/)
 
-* [NO IT DOESN'T](https://moongangers.github.io/posts/noitdoesnt/)
-
-* [POTITOS!](https://moongangers.github.io/posts/potitos/)
-
-* [Zorox](https://moongangers.github.io/posts/zorox/)
+* [shakkadoodle](https://moongangers.github.io/posts/shakkadoodle/)
 
 * [SUPER STAND!](https://moongangers.github.io/posts/superstand/)
 
 * [TOO half](https://moongangers.github.io/posts/toohalf/)
 
-* [Jurassic Snore](https://moongangers.github.io/posts/jurassicsnore/)
+* [Zorox](https://moongangers.github.io/posts/zorox/)
 
+---
+
+Mikayla
+
+* [NO IT DOESN'T](https://moongangers.github.io/posts/noitdoesnt/)
+
+---
+
+Kuya Dan
+
+* [POTITOS!](https://moongangers.github.io/posts/potitos/)
+
+---
+
+JC
+
+* PLACEHOLDER 
+
+---
+
+Brandon
+
+* [Corn Beef Hash](https://moongangers.github.io/posts/cornbeef/)
+
+---
+
+Lani
+
+* PLACEHOLDER 
+
+---
+
+Tito Chris
+
+* PLACEHOLDER 

@@ -6,4 +6,5 @@ tags = ["kuya dan"]
 +++
 
 POTITOS!!!!!
-- drunk in hawaii
+
+> drunk in hawaii, a lot of vodka

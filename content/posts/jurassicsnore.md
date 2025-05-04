@@ -19,3 +19,4 @@ tags = ["tita ging"]
     </iframe> 
 </div>
 
+> A frequently heard sound from Tita Ging while "watching" Kdrama

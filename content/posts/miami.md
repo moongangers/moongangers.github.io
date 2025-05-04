@@ -1,5 +1,5 @@
 +++
-title = "miami"
+title = "MEE-YAMI"
 date = "2008-01-01"
 [taxonomies]
 tags = ["tita ging"]
