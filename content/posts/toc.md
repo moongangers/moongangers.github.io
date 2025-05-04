@@ -1,8 +1,6 @@
 +++
 title = "toc"
 date = "2000-01-01"
-[taxonomies]
-tags = ["table of contents"]
 +++
 
 ---
@@ -21,3 +19,10 @@ tags = ["table of contents"]
 * [POTITOS!](https://moongangers.github.io/posts/potitos/)
 
 * [Zorox](https://moongangers.github.io/posts/zorox/)
+
+* [SUPER STAND!](https://moongangers.github.io/posts/superstand/)
+
+* [TOO half](https://moongangers.github.io/posts/toohalf/)
+
+* [Jurassic Snore](https://moongangers.github.io/posts/jurassicsnore/)
+
