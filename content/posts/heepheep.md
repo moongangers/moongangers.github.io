@@ -5,6 +5,7 @@ date = "2025-12-24"
 tags = ["tita ging"]
 +++
 
-> Trying to get JC and Mikayla Attention for Christmas photo
 
 "OI HEEP HEEP PSST PSST" -Tita Ging 
+
+> Trying to get everyone's attention for Christmas photo
