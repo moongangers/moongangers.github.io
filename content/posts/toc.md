@@ -43,7 +43,7 @@ Kuya Dan
 
 JC
 
-* PLACEHOLDER 
+* [tearjerking](https://moongangers.github.io/post/tearjerker/) 
 
 ---
 
