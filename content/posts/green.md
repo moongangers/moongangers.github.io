@@ -1,5 +1,5 @@
 +++
-title = "FATA!"
+title = "NOT GREEN!"
 date = "2025-12-27"
 [taxonomies]
 tags = ["tita ging"]
